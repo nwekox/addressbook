@@ -1,4 +1,4 @@
-Addressbook Tutorial 6
+Addressbook Tutorial 7
 ====================
 
 This tutorial teache you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to  be
@@ -17,7 +17,7 @@ $ mvn jetty:run
 Open [http://localhost:8080/](http://localhost:8080/)
 
 
-Importing in IntelliJ IDEA 14
+Importing in IntelliJ IDEA 15
 --------------------
 These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
 
